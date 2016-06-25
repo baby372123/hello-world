@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Hi, everyone
+
+Total greenhand start work today
